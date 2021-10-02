@@ -12,6 +12,9 @@ namespace Kitchen.Controllers
     [ApiController]
     public class HomeController : Controller
     {
+        /// <summary>
+        /// DbContext
+        /// </summary>
         private readonly DBContext ctx;
         public HomeController(DBContext ctx)
         {

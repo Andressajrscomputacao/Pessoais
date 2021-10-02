@@ -560,11 +560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andressa\\Desktop\\Kitchen Routing System\\Kitchen\\Kitchen.csproj",
+      "projectUniqueName": "C:\\Projetos\\Pessoais\\ApiKitchen\\Kitchen.csproj",
       "projectName": "Kitchen",
-      "projectPath": "C:\\Users\\Andressa\\Desktop\\Kitchen Routing System\\Kitchen\\Kitchen.csproj",
+      "projectPath": "C:\\Projetos\\Pessoais\\ApiKitchen\\Kitchen.csproj",
       "packagesPath": "C:\\Users\\Andressa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andressa\\Desktop\\Kitchen Routing System\\Kitchen\\obj\\",
+      "outputPath": "C:\\Projetos\\Pessoais\\ApiKitchen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -582,6 +582,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -593,6 +594,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
@@ -617,7 +619,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
